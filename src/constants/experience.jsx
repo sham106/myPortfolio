@@ -2,7 +2,7 @@ export const experiences = [
   {
     role: 'Fellow',
     company: 'Teach for Kenya',
-    date: '2022 - Present',
+    date: '2024 - Present',
     responsibilities: [
       'Provided teaching and instruction to students, enhancing their academic performance and engagement.',
       'Initiated and led the ImarishaSTEM project to promote STEM education and digital literacy.',
@@ -13,7 +13,7 @@ export const experiences = [
   {
     role: 'AI-Powered Developer',
     company: 'Bridge for Developers (Impact Africa Network)',
-    date: '2023',
+    date: '2025 March - 2025 May',
     responsibilities: [
       'Designed and developed CoSavr, a full-stack group saving and lending web app.',
       'Used React, Flask, Python, PostgreSQL, TailwindCSS for development.',
@@ -33,7 +33,7 @@ export const experiences = [
   {
     role: 'IT Intern',
     company: 'Onfon Media Limited, Nairobi',
-    date: '2021',
+    date: '2023',
     responsibilities: [
       'Assisted in networking and IT support departments.',
       'Led the development of an SMS short-code-based dating application.',
