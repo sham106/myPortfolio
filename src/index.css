@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+@layer base {
+  :root {
+    --color-primary-light: 241 240 233; /* #F1F0E9 */
+    --color-primary-dark: 13 71 21; /* #0D4715 */
+    --color-accent: 233 118 43; /* #E9762B */
+    --color-secondary: 65 100 74; /* #41644A */
+  }
+  
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+/* Then use these variables in your Tailwind classes */
